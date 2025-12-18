@@ -1,5 +1,6 @@
 #include <iostream>
-using std::cin, std::cout, std::endl;
+#include<set>
+using std::cin, std::cout, std::endl, std::set;
 
 int main()
 {
