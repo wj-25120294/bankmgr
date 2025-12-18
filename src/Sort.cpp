@@ -80,9 +80,3 @@ BankListNode* SortByAccount(BankListNode *head)
     return newHead;
 }
 //账号排序实现函数
-int main()
-{
-    
-    return 0;
-}
-//主函数控制
